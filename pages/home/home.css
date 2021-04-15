@@ -1,0 +1,11 @@
+ion-content{
+  background: linear-gradient(to right, #136a8a, #267871);
+}
+
+h2{
+  color: aqua;
+}
+p{
+  font-family: Century Gothic;
+  text-align: justify;
+}
